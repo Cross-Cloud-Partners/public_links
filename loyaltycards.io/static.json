@@ -1,3 +1,4 @@
 {
-    "mobileapi": "https://ff29-54-206-205-46.ngrok-free.app"
+    "mobileapi_prod": "https://ff29-54-206-205-46.ngrok-free.app",
+    "mobileapi_sandbox": "https://df56-2402-800-637c-a83-68d4-8306-5dd6-4ccc.ngrok-free.app"
 }
